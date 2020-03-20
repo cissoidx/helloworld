@@ -4,10 +4,10 @@ sys.path.append(path.dirname(
                         path.dirname(
                             path.abspath(__file__)))))
 
-from helloworld.world import world
+from helloworld.hello import hello
 
 def main():
-    world.print_world()
+    hello.print_hello()
     return
 
 

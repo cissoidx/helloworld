@@ -1,4 +1,4 @@
-from hello_helpers import func_helper
+from .hello_helpers import func_helper
 
 def print_hello():
     assert func_helper()

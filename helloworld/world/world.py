@@ -1,4 +1,4 @@
-from world_helpers import cls_helper
+from .world_helpers import cls_helper
 
 def print_world():
     assert cls_helper.HELP
