@@ -1,0 +1,11 @@
+# IDE
+.vscode
+.idea
+
+# data folders
+data/input
+data/output
+
+# temp files
+*~
+*.pyc
